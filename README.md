@@ -13,6 +13,17 @@ This project explores how traders behave under different market sentiments like 
 
 ---
 
+## 📦 Note on Datasets
+
+Due to GitHub file size limits, the datasets are uploaded as `.zip` files:
+
+- `fear_greed_index.zip`  
+- `historical_data.zip`  
+
+Please **download and unzip** these files before running the notebook.
+
+---
+
 ## Summary of Work
 
 - Merged sentiment and trading datasets by date  
