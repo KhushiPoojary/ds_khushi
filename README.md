@@ -13,7 +13,7 @@ This project explores how traders behave under different market sentiments like 
 
 ---
 
-## 📦 Note on Datasets
+## Note on Datasets
 
 Due to GitHub file size limits, the datasets are uploaded as `.zip` files:
 
