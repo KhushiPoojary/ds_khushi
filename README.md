@@ -1,6 +1,6 @@
 # Trader Behavior vs Market Sentiment - Data Science Assignment
 
-This project explores how traders behave under different market sentiments like Fear or Greed. It uses real-world trading and sentiment data to analyze patterns in profit, risk, and trade volume.
+This project explores how traders behave under different market sentiments like Fear or Greed. It uses real-world trading and sentiment data to analyze patterns in profit, risk and trade volume.
 
 ---
 
